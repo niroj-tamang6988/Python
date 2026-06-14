@@ -1,8 +1,8 @@
 list = [1,2,3,"niroj", True]
 print(list)
 
-lst = [i*i for i in range(4)]
-print(lst)
+# lst = [i*i for i in range(4)]
+# print(lst)
 
 #list method
 
@@ -19,6 +19,6 @@ print(l)
 #reverce the list
 l.reverse()
 print(l)
-
-
-
+#insert element in the index 
+list.insert(3,5) #third index 5 element
+print(list)
