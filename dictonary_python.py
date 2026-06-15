@@ -9,3 +9,6 @@ print(info["age"])
 
 info["name"] = "Saroj"
 print(info["name"])
+
+#dictionary methods
+print(info.keys()) #print all keys in dictionary
